@@ -17,12 +17,18 @@ Telecom operators are waging a war for connectivity and customer intimacy. Being
 
 <img src="https://github.com/pathakchiranjit/Capstone_CDF_April21/blob/main/Picture/it-consulting-min.gif?raw=true" align='left'><br/>
 
+
+
+
 ### Behavioural analysis of **InsaidTelecom** users
 
 **InsaidTelecom**, one of the leading telecom players, understands that customizing offering is very important for its business to stay competitive.
 Currently, InsaidTelecom is seeking to leverage behavioral data from more than 60% of the 50 million mobile devices active daily in India to help its clients better understand and interact with their audiences.
 
 <img src="https://github.com/pathakchiranjit/Capstone_CDF_April21/blob/main/Picture/Telecom-Industry.jpg?raw=true" align='left'><br/>
+
+
+
 
 ### **Data Sources I**:
 
@@ -39,6 +45,9 @@ passwd	'student'
 database	'Capstone1'
 
 <img src="https://github.com/pathakchiranjit/Capstone_CDF_April21/blob/main/Picture/device_id_6.jpg?raw=true" align='left'><br/>
+
+
+
 
 ### **Data Source II**:
 
