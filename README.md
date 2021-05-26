@@ -6,6 +6,10 @@ Our observation excel link:
 https://docs.google.com/spreadsheets/d/18yDcIQdF4LxTW9CgJncvkv7RYptsECOj/edit#gid=632981895
 
 
+Our Report Doc link:
+https://docs.google.com/document/d/1-F9eYHbAQkO81y3Cm84ahFjoTObW5lWEg7vIaVJRtK0/edit#heading=h.z6ne0og04bp5
+
+
 ### Capstone Group Project (CDF) - **Consulting Assignments**
 
 Telecom operators are waging a war for connectivity and customer intimacy. Being a consultanting group, we have analyzed the user data of **InsaidTelecom** and helping them to better understand their customers, build superior networks, find a sustainable path to growth and achieve cost leadership while maintaining a high-performance organization.
